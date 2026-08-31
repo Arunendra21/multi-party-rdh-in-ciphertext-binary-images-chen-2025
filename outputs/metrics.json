@@ -1,0 +1,30 @@
+{
+  "document": {
+    "block_size": 2,
+    "capacity_bits": 64432,
+    "bpp": 0.24579,
+    "pixel_flips": 33289,
+    "reversible": true
+  },
+  "line_art": {
+    "block_size": 2,
+    "capacity_bits": 63982,
+    "bpp": 0.24407,
+    "pixel_flips": 35589,
+    "reversible": true
+  },
+  "halftone": {
+    "block_size": 2,
+    "capacity_bits": 65443,
+    "bpp": 0.24965,
+    "pixel_flips": 38034,
+    "reversible": true
+  },
+  "signature": {
+    "block_size": 2,
+    "capacity_bits": 64533,
+    "bpp": 0.24617,
+    "pixel_flips": 33792,
+    "reversible": true
+  }
+}
